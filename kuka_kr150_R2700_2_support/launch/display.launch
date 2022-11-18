@@ -3,7 +3,7 @@
     name="model" />
   <param
     name="robot_description"
-    textfile="$(find urdf_assembly_v35)/urdf/urdf_assembly_v35.urdf" />
+    textfile="$(find kuka_kr150_R2700_2_support)/urdf/kuka_kr150_R2700_2_support.urdf" />
   <node
     name="joint_state_publisher_gui"
     pkg="joint_state_publisher_gui"

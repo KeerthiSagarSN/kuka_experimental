@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.3)
 
-project(urdf_assembly_v35)
+project(kuka_kr150_R2700_2_support)
 
 find_package(catkin REQUIRED)
 
